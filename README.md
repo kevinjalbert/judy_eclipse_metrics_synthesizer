@@ -1,3 +1,7 @@
+Judy Eclipse Metrics Synthesizer
+=====
+[![Gitter Chat](http://img.shields.io/chat/gitter.png?color=brightgreen)](https://gitter.im/kevinjalbert/judy_eclipse_metrics_synthesizer)
+
 #Information
 
 *Author*:    Kevin Jalbert  (blitzbolt@gmail.com)
@@ -24,7 +28,3 @@ _The python command is linked to the 2.7 version of Python_
 
 #Options
 To see a list of the options run the following command ```python judy_eclipse_metrics_synthesizer.py -h```
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kevinjalbert/judy_eclipse_metrics_synthesizer/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
