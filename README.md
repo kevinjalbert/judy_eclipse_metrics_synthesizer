@@ -1,6 +1,12 @@
-Judy Eclipse Metrics Synthesizer
-=====
-[![Gitter Chat](http://img.shields.io/chat/gitter.png?color=brightgreen)](https://gitter.im/kevinjalbert/judy_eclipse_metrics_synthesizer)
+# This repository is ⚰️ ARCHIVED ⚰️
+
+I haven't used/worked on this repository in quite some time, thus archiving it.
+
+Feel free to fork and take the project in a new direction. You could also contact me to unarchive it if you are willing to maintain it.
+
+-----
+
+# Judy Eclipse Metrics Synthesizer
 
 #Information
 
